@@ -30,3 +30,6 @@ The assessment was carried out in important hubs including as Kabul, Herat, Nang
 
 ## [Project 3: Afghanistan's Health Expenditures through Donations](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MGJlZmItODc0Mi00NmE5LTliNDQtYzJjODM0MTgwMzU0IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/2384e060-1c90-4eee-8214-a1b4fede8e75)
+
+## [Project 4: Performance analysis of tracer indicators](https://public.tableau.com/views/ProvincialMonitoringKPIMiladi/MiladiDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+![image](https://github.com/ms4hafiz/Notes/assets/20435849/ee827265-76e2-4080-acad-d30007ce9dc4)
