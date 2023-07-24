@@ -33,3 +33,20 @@ The assessment was carried out in important hubs including as Kabul, Herat, Nang
 
 ## [Project 4: Performance analysis of tracer indicators](https://public.tableau.com/views/ProvincialMonitoringKPIMiladi/MiladiDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/ee827265-76e2-4080-acad-d30007ce9dc4)
+
+## Fun projects:
+## [Project 5: Profitability Analysis](https://app.powerbi.com/view?r=eyJrIjoiZjM5M2NkNGMtY2RmZC00ZjA2LWI1MDMtZWIzZjY2ZjMxNTdlIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![Dashboard image](https://github.com/ms4hafiz/PowerBI/blob/main/1-Profitability%20Dashboard/Dashboard%20image.png)
+
+This PowerBI report shows sales profitability using Superstore Data. It is fully interactive, showing key KPI/metrics, and is using a customized legend.
+## [Project 6: Life Expectancy](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/World-Life-Expectancy-between-1980-to-2019/m-p/3281695)
+![image](https://github.com/ms4hafiz/Notes/assets/20435849/e1cb60a2-6a55-4003-a5cc-d3359eed3d21)
+
+Following are some insights I was able to make from this dashboard:
+* The average life expectancy has improved globally from 63 years in 1980 to 74 years in 2019.
+* Europe had the highest average life expectancy of 74, while Africa had the lowest life expectancy of 55 years.
+* In 1980, five countries ( Cambodia, Timor-Leste, Niger, South Sudan, Mali) had reported a life expectancy of under 40 years.
+* No country had ever reported a life expectancy of 80 years or more in 1980, compared to 24% of countries in 2019.
+
+## [Project 7: Factors affecting pregnancy health risks](https://app.powerbi.com/view?r=eyJrIjoiM2I1NDgzZmItYzc1ZC00ZmViLTliYzQtMDU1YzkzZDYwYTkxIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/ms4hafiz/Notes/assets/20435849/8aa52876-f0cc-41e9-bbb2-6dc21b0ff6ce)
