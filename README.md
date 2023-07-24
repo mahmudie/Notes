@@ -8,3 +8,9 @@ The initiative makes use of data from 12 different data sources, online platform
 
 The objective is to:
   * Identify trends and patterns in nutrition data to optimize resource planning and use.
+  * Assess nutrition reach and program performance from the lowest level to the highest levels of granularity.
+
+
+The Power BI project employs a variety of visualizations, including line charts, bar graphs, geographic maps, Decomposition Tree, and other visuals to present data in a visually appealing and easily understandable manner.
+
+By leveraging Power BI's analytics capabilities, our project has empowered decision-makers to make data-driven choices, resulting in improved performance, coordination, and strategic planning. 
