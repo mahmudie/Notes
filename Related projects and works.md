@@ -9,3 +9,4 @@
 * [EMIS Presentation](https://github.com/ms4hafiz/Notes/blob/main/2019-05-19-EMIS_Presentation%20for%20MoPH%20Leadership.pdf)
 * [Infographic on UNICEF achievements in 2022](https://github.com/ms4hafiz/Notes/blob/main/Annual%20review%202022%20-%20Poster%2044%20by%2044%20inch.pdf)
 * [PLIS introduction one-pager](https://github.com/ms4hafiz/Notes/blob/main/PLIS_OnePager.pdf)
+* [Project baseline and target coverage infographic](https://github.com/ms4hafiz/Notes/blob/main/AFIAT%20Province%20Coverage.png)
