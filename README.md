@@ -3,7 +3,7 @@
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
 ## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
 ## [4. Data Science- GDP Analysis and Recommendation](https://github.com/mahmudie/GDP_Analysis)
-## [5. Data Science- Analysis of loand applications](https://github.com/mahmudie/Credit_EDA_Case_Study)
+## [5. Data Science- Analysis of loan applications](https://github.com/mahmudie/Credit_EDA_Case_Study)
 ## [6. Data Science- Telecom Churn Study](https://github.com/mahmudie/Telecom-churn-study)
 ## [7. Data Science- Data analysis and visualization projects](https://app.powerbi.com/view?r=eyJrIjoiOTI2ODY3M2YtNTQ2My00YTY0LThlMGUtZTYyMzI4N2RkNzEzIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D):
 
