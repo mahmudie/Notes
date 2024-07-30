@@ -7,6 +7,31 @@
 ## [6. Data Science- Telecom Churn Study](https://github.com/mahmudie/Telecom-churn-study)
 ## [7. Data Science- Data analysis and visualization projects](https://app.powerbi.com/view?r=eyJrIjoiOTI2ODY3M2YtNTQ2My00YTY0LThlMGUtZTYyMzI4N2RkNzEzIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D):
 
+## [Project 7.8: Supply Chain Analytics](https://app.powerbi.com/view?r=eyJrIjoiMzRmYjk4ZTctNjkwMi00MzMyLWFlYjgtNDViNTlhZDRkZGM1IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/user-attachments/assets/a6872c45-4e4c-4773-92c4-5e327bd58dd7)
+This is a practice project for visualizing a few supply chain KPIs. It focuses mainly on the following KPIs/metrics:
+
+**Line Fill Rate:**
+Assesses the efficiency of order fulfillment by measuring the percentage of order lines filled completely on the first shipment, reducing the need for follow-up shipments.
+
+**Volume Fill Rate:**
+Evaluates the percentage of ordered volume (units, weight, or value) shipped on the first attempt, indicating the efficiency of fulfilling large or bulk orders.
+
+**On Time Delivery (OTD):**: 
+Measures how reliably orders are delivered by the promised date, directly impacting customer satisfaction and service reliability.
+
+**In Full Delivery (IFD):**
+Evaluates whether orders are delivered with all items and quantities as requested, ensuring order completeness and accuracy. 
+
+**On Time and In Full Delivery (OTIF):**
+Combines OTD and IFD to assess the overall delivery performance, ensuring orders are both timely and complete, which aligns with customer expectations.
+
+**Customer Order Cycle Time (COCT):**
+Tracks the total time from order placement to delivery, providing insights into the efficiency of the order fulfillment process and affecting customer satisfaction.
+
+**Delay in Delivery:**
+Measures the time orders are delivered past the promised date, helping to identify and rectify delays in the supply chain that impact customer trust and satisfaction.
+
 ## [Project 7.7:  Afghanistan’s Nutrition Data Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTI2ODY3M2YtNTQ2My00YTY0LThlMGUtZTYyMzI4N2RkNzEzIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/dfc1e1e5-ed49-4849-87b0-d1d2d9876d35)
 
